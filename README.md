@@ -1,6 +1,6 @@
 # Predicting-House-Prices-with-Linear-Regression-Machine-Learning-Project-
 
-1. Project Overview
+# Project Overview
 
 This project builds a Linear Regression model to predict house prices based on property features.
 
@@ -14,12 +14,12 @@ Evaluate model performance using regression metrics
 
 The project includes data preprocessing, feature encoding, scaling, model training, and evaluation.
 
-2. Dataset
+# Dataset
 2.1 File Used
 
 Housing.csv
 
-2.2 Dataset Description
+# Dataset Description
 
 The dataset contains property-related features such as:
 
@@ -49,7 +49,7 @@ furnishingstatus
 
 price (Target Variable)
 
-3. Features and Target
+# Features and Target
 3.1 Input Features (X)
 
 area
@@ -76,11 +76,11 @@ prefarea
 
 furnishingstatus
 
-3.2 Target Variable (y)
+# Target Variable (y)
 
 price
 
-4. Project Workflow
+# Project Workflow
 
 The project follows these steps:
 
@@ -104,7 +104,7 @@ Mean Absolute Error (MAE)
 
 Visualization of Actual vs Predicted prices
 
-5. Model Evaluation
+# Model Evaluation
 
 The model performance is measured using:
 
@@ -116,7 +116,7 @@ Mean Absolute Error (MAE)
 
 Measures the average prediction error
 
-6. Technologies Used
+# Technologies Used
 
 Python
 
@@ -126,7 +126,7 @@ Matplotlib
 
 Scikit-learn
 
-7. Key Learning Outcomes
+# Key Learning Outcomes
 
 Understanding regression modeling
 
@@ -138,7 +138,7 @@ Applying feature scaling
 
 Evaluating regression models
 
-8. Conclusion
+# Conclusion
 
 The Linear Regression model demonstrates how housing characteristics influence price.
 
