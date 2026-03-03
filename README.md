@@ -4,7 +4,7 @@
 
 This project builds a Linear Regression model to predict house prices based on property features.
 
-The objective is to:
+# The objective is to:
 
 Understand how different housing attributes influence price
 
